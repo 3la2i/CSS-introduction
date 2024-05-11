@@ -1,0 +1,25 @@
+#rcorners1 {
+  width: 220px;
+  background-color: gray;
+  margin: 50px;
+  float: left;
+}
+
+#rcorners2 {
+  width: 220px;
+  background-color: gray;
+  margin: 50px;
+  float: left;
+}
+
+#div2 {
+  clear: both;
+}
+
+#mid {
+  clear: both;
+  border-top: 1px black solid;
+  border-bottom: 1px black solid;
+}
+
+body{background-color: bisque;}

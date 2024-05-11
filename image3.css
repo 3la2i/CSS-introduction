@@ -1,0 +1,37 @@
+h1 {
+  text-decoration: underline;
+  border-bottom: 1px gray solid;
+  padding-bottom: 60px;
+}
+
+a {
+  color: orange;
+}
+
+#link1 {
+  color: blue;
+}
+#linkcolor {
+  background-color: yellow;
+}
+
+li {
+  font-size: large;
+}
+
+.link4 {
+  color: red;
+}
+
+.dot {
+  margin-left: 40px;
+
+  list-style-type: circle;
+  color: blue;
+}
+
+.nobullets {
+  list-style-type: none;
+  color: blue;
+  margin-left: 80px;
+}
