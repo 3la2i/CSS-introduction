@@ -1,15 +1,16 @@
 #rcorners1 {
   width: 220px;
   background-color: gray;
-  margin: 50px;
+  margin: 15px;
   float: left;
 }
 
 #rcorners2 {
   width: 220px;
   background-color: gray;
-  margin: 50px;
+  margin: 15px;
   float: left;
+  
 }
 
 #div2 {
@@ -20,6 +21,9 @@
   clear: both;
   border-top: 1px black solid;
   border-bottom: 1px black solid;
+
+  overflow-x: hidden;
+  overflow-y: scroll;
 }
 
 body{background-color: bisque;}
